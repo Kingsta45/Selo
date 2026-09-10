@@ -1,4 +1,4 @@
-# AstroTrade — No Code Launchpad for Tokenised AI Trading Agents
+# Selo — No Code Launchpad for Tokenised AI Trading Agents
 
 A platform where traders create AI trading agents from plain English strategies and investors buy/sell tokenised shares in those agents.
 
